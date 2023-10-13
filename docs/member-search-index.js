@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"poo8p2.area","c":"Area","l":"Area()","u":"%3Cinit%3E()"},{"p":"poo8p2","c":"POO8P2","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"poo8p2","c":"POO8P2","l":"POO8P2()","u":"%3Cinit%3E()"}];updateSearchResults();
